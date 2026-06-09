@@ -1,0 +1,4 @@
+Makanan,Nasi Goreng,15000.0
+Minuman,Teh,5000.0
+Diskon,Promo Akhir Tahun,10.0
+Makanan,Bakso,10000.0
